@@ -1,0 +1,14 @@
+C:\Users\edmun\source\repos\BorderOfAnotherWorld\bin\Debug\BorderOfAnotherWorld.exe.config
+C:\Users\edmun\source\repos\BorderOfAnotherWorld\bin\Debug\BorderOfAnotherWorld.exe
+C:\Users\edmun\source\repos\BorderOfAnotherWorld\bin\Debug\BorderOfAnotherWorld.pdb
+C:\Users\edmun\source\repos\BorderOfAnotherWorld\obj\Debug\BorderOfAnotherWorld.csprojAssemblyReference.cache
+C:\Users\edmun\source\repos\BorderOfAnotherWorld\obj\Debug\BorderOfAnotherWorld.Properties.Resources.resources
+C:\Users\edmun\source\repos\BorderOfAnotherWorld\obj\Debug\BorderOfAnotherWorld.csproj.GenerateResource.cache
+C:\Users\edmun\source\repos\BorderOfAnotherWorld\obj\Debug\BorderOfAnotherWorld.csproj.CoreCompileInputs.cache
+C:\Users\edmun\source\repos\BorderOfAnotherWorld\obj\Debug\BorderOfAnotherWorld.exe
+C:\Users\edmun\source\repos\BorderOfAnotherWorld\obj\Debug\BorderOfAnotherWorld.pdb
+C:\Users\edmun\source\repos\BorderOfAnotherWorld\obj\Debug\BorderOfAnotherWorld.ABorderOfAnotherWorld.resources
+C:\Users\edmun\source\repos\BorderOfAnotherWorld\bin\Debug\BorderOfAnotherWorld.exe.manifest
+C:\Users\edmun\source\repos\BorderOfAnotherWorld\bin\Debug\BorderOfAnotherWorld.application
+C:\Users\edmun\source\repos\BorderOfAnotherWorld\obj\Debug\BorderOfAnotherWorld.exe.manifest
+C:\Users\edmun\source\repos\BorderOfAnotherWorld\obj\Debug\BorderOfAnotherWorld.application
